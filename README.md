@@ -1,1 +1,2 @@
-# React-Native-Roll-Dice-Game
+# React-Native-Roll-Dice-Gaming
+React Native Roll Dice Gaming
